@@ -1,1 +1,5 @@
 whatever
+a = "whatever"
+for i in a:
+  a += i * 3
+print(a)
