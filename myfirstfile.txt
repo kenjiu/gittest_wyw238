@@ -1,9 +1,6 @@
 whatever
-<<<<<<< HEAD
 this is gonna go wrong...
-=======
 a = "whatever"
 for i in a:
   a += i * 3
 print(a)
->>>>>>> 534c7bd86f49c5aecb95f306d117ae4a97e13486
