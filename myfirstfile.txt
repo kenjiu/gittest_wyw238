@@ -3,5 +3,5 @@ this is gonna go wrong...
 a = "whatever"
 for i in a:
   a += i * 3
-print(a)
+delete a line , ku373
 Hello there, this is ku373 messing with your file
