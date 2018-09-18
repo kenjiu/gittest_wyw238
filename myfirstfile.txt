@@ -4,4 +4,6 @@ a = "whatever"
 for i in a:
   a += i * 3
 delete a line , ku373
+=======
+print (b)
 Hello there, this is ku373 messing with your file
